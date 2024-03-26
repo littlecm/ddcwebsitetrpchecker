@@ -51,4 +51,3 @@ if domain:
     
     for result in results:
         st.write(result)
-
